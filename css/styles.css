@@ -1,11 +1,11 @@
 body{
-  background: #1D2E7A;
+  background: black;
   color: white;
   font-family: sans-serif;
 }
 @media(min-width:1000px){
   body{
-    background:black;
+    background: #696969;
   }
 }
 a{
