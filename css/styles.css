@@ -1,0 +1,26 @@
+body{
+  background: #1D2E7A;
+  color: white;
+  font-family: sans-serif;
+}
+@media(min-width:1000px){
+  body{
+    background:black;
+  }
+}
+a{
+  color:white;
+  text-decoration: none;
+}
+a:hover{
+  color: 	#9932CC;
+}
+ .indent {
+   margin-left: 50px;
+   margin-right: 50px;
+ }
+
+ .responsive{
+   display: inline-block;
+   width:400px;
+ }
